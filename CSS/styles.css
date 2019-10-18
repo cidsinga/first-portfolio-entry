@@ -6,12 +6,12 @@
   background-color: #275B84;
   color: #FFFFFF;
 
-
 }
 
 body {
   background-color: #212121;
   color: #F9F5EA;
+  border: 10px solid black;
 }
 
 .center{
@@ -23,8 +23,18 @@ body {
 
 img {
   float: left;
+
 }
 
 .main h2{
-  color: #275B84
+  color: #275B84;
+  background-color:
+}
+
+a {
+  color: #97D38B;
+}
+
+.box{
+  background-color: red;
 }
