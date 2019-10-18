@@ -1,10 +1,10 @@
 .swim {
-  color: blue
+  color: #275B84;
 }
 .jumbotron{
   text-align: center;
-  background-color: #666666;
-  color: #F9F5EA;
+  background-color: #275B84;
+  color: #FFFFFF;
 
 
 }
@@ -19,4 +19,8 @@ body {
   margin-left: auto;
   margin-right: auto;
   width: 50%;
+}
+
+img {
+  float: left;
 }
