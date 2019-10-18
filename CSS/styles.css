@@ -11,7 +11,7 @@
 body {
   background-color: #212121;
   color: #F9F5EA;
-  border: 10px solid black;
+  border: 15px solid black;
 }
 
 .center{
@@ -35,6 +35,11 @@ a {
   color: #97D38B;
 }
 
-.box{
-  background-color: red;
+.lower{
+  background-color: #333333;
+  font-style: oblique;
+  font-weight: bold;
+  padding: 10px;
+  margin: 30px;
+
 }
