@@ -5,41 +5,32 @@
   text-align: center;
   background-color: #275B84;
   color: #FFFFFF;
-
 }
-
 body {
   background-color: #212121;
   color: #F9F5EA;
   border: 15px solid black;
 }
-
 .center{
   display: block;
   margin-left: auto;
   margin-right: auto;
   width: 50%;
 }
-
 img {
   float: left;
-
 }
-
 .main h2{
   color: #275B84;
   background-color:
 }
-
 a {
   color: #97D38B;
 }
-
 .lower{
   background-color: #333333;
   font-style: oblique;
   font-weight: bold;
   padding: 10px;
   margin: 30px;
-
 }

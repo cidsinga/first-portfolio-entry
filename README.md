@@ -1,4 +1,4 @@
-#Portfolio Web Page
+# Portfolio Web Page
 
 #### By Casey Idsinga
 
@@ -16,4 +16,4 @@ html and css were used to create this page.  Some stylings were provided by boot
 
 GPL
 
-Copyright (c) 2019 **_ Casey Idsinga_**
+Copyright (c) 2019 **_Casey Idsinga_**
