@@ -3,4 +3,16 @@
 }
 .jumbotron{
   text-align: center;
+  background-color: #E72E2E
+}
+
+body {
+  background-color: #202020
+}
+
+.center{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;  
 }
