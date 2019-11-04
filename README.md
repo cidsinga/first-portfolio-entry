@@ -7,7 +7,6 @@ A basic html webpage styled with css.  Demonstrates basic html and css principle
 
 ## Setup Instructions
 Load page from the internet using browser of choice.
-https://cidsinga.github.io/portfolio/
 https://github.com/cidsinga/portfolio.git
 
 
